@@ -28,7 +28,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "73c9f7367b53f1a2ce2a7fff2a0c9771b253a120d12731f63a932d02b208110c",
     "rom_download_size": 13972373
   },
@@ -61,7 +61,7 @@
     },
     "rom_free": false,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "39eb3933536919a607a87e21669a06356b01b03c97115db1a23d84f7bc06d1a4",
     "rom_download_size": 166759652
   },
@@ -94,7 +94,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "124b33c843a79a6fd7403118ff85a0b9cdbdc3f51e40eb0a6eff6cf7fae1cbec",
     "rom_download_size": 50955522
   },
@@ -127,7 +127,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "44d6380112a869d57d810f7f45e2b13dd71142c6be1c68fdffb2aa9971daf578",
     "rom_download_size": 164911956
   },
@@ -160,7 +160,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "a43f1c33aaa79d4ca674650d5aaf494f96bc59bd19e737c8b41c2cd21c5afa89",
     "rom_download_size": 416027764
   },
@@ -193,7 +193,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "09170c32bc6671c8743e91ef6f0453eb0080018c5ef213d8d30dcec6b02d736c",
     "rom_download_size": 106188579
   },
@@ -226,7 +226,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "bde27ce8faef01311b2ee7f11f46de777150e85c8b269ebf96bdcba8986aecbc",
     "rom_download_size": 25482867
   },
@@ -259,7 +259,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "d0b40cfd4bb3f9c209c2721765ec2ce38b8c5b27bb13d65f564f4a0dd14cecb2",
     "rom_download_size": 19998917
   },
@@ -292,7 +292,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "43ffa22965d37de097f4c6ddc6656ec4bf73e5f285732f1615844a4573f1b2bb",
     "rom_download_size": 285529941
   },
@@ -325,7 +325,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "3ba41a502c3b77cf89d49f3e40891b3169492cee00e20ec01b7b586717e880c6",
     "rom_download_size": 61710736
   },
@@ -358,7 +358,7 @@
     },
     "rom_free": true,
     "rom_format": "legacy",
-    "min_app_version_code": 180,
+    "min_app_version_code": 129,
     "rom_sha256": "8c426f75b4a6ea4e79f6d4a01a5f00b24697e08d91bd8d6c6f0c53ea3c1103e6",
     "rom_download_size": 523182798
   }
